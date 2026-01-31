@@ -88,9 +88,13 @@ client_socket.close()
 ```
 
 ## Output:
+
 Server:
+
 ![alt text](server.png)
+
 Client:
+
 ![alt text](client.png)
 
 ## Result:
